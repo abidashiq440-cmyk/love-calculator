@@ -3,7 +3,7 @@ function calculateLove() {
     let name1 = document.getElementById("name1").value.trim().toLowerCase();
     let name2 = document.getElementById("name2").value.trim().toLowerCase();
 
-    let specialNames = ["abid", "hani", "mushtaq", "sahana", "sanjana", "sultana", "fathima"];
+    let specialNames = ["abid", "hani", "mushtaq", "sahana", "tamseel", "adeeba", "deebu", "fazila", "rutba", "rutbah", "fazilah", "tahila" "sanjana", "sultana", "fathima"];
 
     let percentage;
 
